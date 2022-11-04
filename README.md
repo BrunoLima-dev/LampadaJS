@@ -4,4 +4,4 @@
 
 
 #### Mini projeto feito para aperfeiçoamento em javascript 
-Os créditos vai para o professor @Fernando Leonid canl no YouTube.
+Os créditos vai para o professor @Fernando Leonid canal no YouTube.
